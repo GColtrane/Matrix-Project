@@ -1,0 +1,41 @@
+
+body {
+	background-color: #000000;
+	color: #00ff99;
+	font-weight: 800;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+body{
+	background-image: url("http://ak8.picdn.net/shutterstock/videos/3914753/preview/stock-footage-binary-codes-background-loopable.jpg")
+}
+
+body, h2{
+	padding-top: 50px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+body, h3{
+	text-align: center;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	color: #ff0000;
+	font-size: 1.75em;
+}
+div {
+	text-align: center;
+}
+
+footer, h2 {
+	text-align: center;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-size: 1.75em;
+}
+
+#MatPic {
+	height: 250px;
+	width: 450px;
+}
